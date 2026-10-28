@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" fill="#1f2937"/>
-  <text x="32" y="32" fill="#84cc16" font-family="Helvetica, Arial, sans-serif"
+  <rect width="64" height="64" fill="#0f1f1c"/>
+  <text x="32" y="32" fill="#f4c430" font-family="Helvetica, Arial, sans-serif"
         font-size="14" font-weight="700" text-anchor="middle"
         dominant-baseline="central">NSIT</text>
 </svg>
